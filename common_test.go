@@ -4,6 +4,8 @@ import (
 	"github.com/micro/go-micro/registry"
 )
 
+// sonar test
+
 var (
 	// mock data
 	testData = map[string][]*registry.Service{
